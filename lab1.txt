@@ -1,0 +1,11 @@
+Question 2.1 :
+1 - Les trois fenêtres proposées par wireshark contiennent les différentes informations des entêtes Ethernet et IPv4.
+
+2 - Les données de la 3ème fenêtre sont représentées dans le format décimal.
+
+3 -
+
+4 - 
+
+Question 2.2 :
+
